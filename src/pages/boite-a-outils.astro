@@ -1,0 +1,21 @@
+---
+import Base from '../layouts/Base.astro';
+import ArticleList from '../components/ArticleList.astro';
+import { CATEGORIES } from '../data/site.js';
+---
+<Base title="La boîte à outils pour gagner de l'argent en ligne" description="Notre sélection d'outils pour créer un site, produire des vidéos, vendre en ligne et être trouvé sur Google, classés par besoin.">
+  <div class="wrap">
+    <p class="breadcrumb"><a href="/">Accueil</a> › Boîte à outils</p>
+    <h1>La boîte à outils pour créer et gagner en ligne</h1>
+    <p class="lead read">Tous les outils que nous testons, rangés par besoin. Commencez par la rubrique qui correspond à votre projet.</p>
+
+    {CATEGORIES.map((c) => (
+      <section>
+        <h2><a href={`/categorie/${c.slug}/`}>{c.name}</a></h2>
+        <p class="read">{c.intro}</p>
+        <p class="tools"><strong>Outils suivis :</strong> {c.tools.join(', ')}</p>
+        <ArticleList category={c.slug} limit={3} />
+      </section>
+    ))}
+  </div>
+</Base>

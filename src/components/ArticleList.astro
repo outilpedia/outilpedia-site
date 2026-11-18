@@ -1,0 +1,23 @@
+---
+// Liste des articles publiés, éventuellement filtrés par catégorie.
+const { category, limit } = Astro.props;
+
+const modules = Object.values(import.meta.glob('../pages/articles/*.md', { eager: true }));
+let articles = modules
+  .filter((m) => !m.frontmatter.draft)
+  .filter((m) => !category || m.frontmatter.category === category)
+  .sort((a, b) => String(b.frontmatter.date).localeCompare(String(a.frontmatter.date)));
+if (limit) articles = articles.slice(0, limit);
+---
+{articles.length > 0 ? (
+  <div class="grid">
+    {articles.map((a) => (
+      <a class="card" href={a.url + '/'}>
+        <h3>{a.frontmatter.title}</h3>
+        <p>{a.frontmatter.description}</p>
+      </a>
+    ))}
+  </div>
+) : (
+  <p class="empty">Les premiers tests arrivent très bientôt dans cette rubrique.</p>
+)}

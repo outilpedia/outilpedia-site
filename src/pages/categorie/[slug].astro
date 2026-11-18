@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleList from '../../components/ArticleList.astro';
+import { CATEGORIES } from '../../data/site.js';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((c) => ({ params: { slug: c.slug }, props: { cat: c } }));
+}
+
+const { cat } = Astro.props;
+---
+<Base title={`${cat.name} : tests et comparatifs`} description={cat.intro}>
+  <div class="wrap">
+    <p class="breadcrumb"><a href="/">Accueil</a> › {cat.name}</p>
+    <h1>{cat.name}</h1>
+    <p class="lead read">{cat.intro}</p>
+    <p class="tools"><strong>Outils suivis :</strong> {cat.tools.join(', ')}</p>
+    <section>
+      <h2>Tests, comparatifs et guides</h2>
+      <ArticleList category={cat.slug} />
+    </section>
+  </div>
+</Base>

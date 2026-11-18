@@ -1,0 +1,39 @@
+---
+import Base from '../layouts/Base.astro';
+import ArticleList from '../components/ArticleList.astro';
+import { SITE, CATEGORIES } from '../data/site.js';
+---
+<Base>
+  <div class="hero">
+    <div class="wrap">
+      <h1>Les bons outils pour créer et gagner en ligne</h1>
+      <p>Des tests concrets et des comparatifs honnêtes, défauts compris, pour choisir le bon outil du premier coup et ne pas payer pour rien.</p>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <section>
+      <h2>Explorer par besoin</h2>
+      <div class="grid">
+        {CATEGORIES.map((c) => (
+          <a class="card" href={`/categorie/${c.slug}/`}>
+            <h3>{c.name}</h3>
+            <p>{c.short}</p>
+            <p class="tools">{c.tools.join(' · ')}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Derniers articles</h2>
+      <ArticleList limit={6} />
+    </section>
+
+    <section class="read">
+      <h2>Pourquoi nous faire confiance</h2>
+      <p>Chaque outil présenté sur {SITE.name} est utilisé en conditions réelles avant d'être recommandé. Nous montrons ce qu'il fait bien, ce qu'il fait mal, et pour qui il n'est pas adapté.</p>
+      <p>Le site est financé par l'affiliation : quand vous achetez via nos liens, nous touchons une commission, sans surcoût pour vous. <a href="/a-propos/">Découvrir notre méthode de test</a>.</p>
+    </section>
+  </div>
+</Base>

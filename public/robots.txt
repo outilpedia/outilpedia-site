@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outilpedia.com/sitemap-index.xml

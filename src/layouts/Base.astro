@@ -1,0 +1,62 @@
+---
+import '../styles/global.css';
+import { SITE, CATEGORIES } from '../data/site.js';
+
+const { title, description = SITE.description, noindex = false } = Astro.props;
+const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const path = Astro.url.pathname;
+---
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content="fr_FR" />
+    {noindex && <meta name="robots" content="noindex" />}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="logo" href="/">Outil<span>pedia</span></a>
+        <nav class="nav" aria-label="Catégories">
+          {CATEGORIES.map((c) => (
+            <a href={`/categorie/${c.slug}/`} aria-current={path.startsWith(`/categorie/${c.slug}`) ? 'page' : undefined}>{c.name}</a>
+          ))}
+          <a href="/boite-a-outils/" aria-current={path.startsWith('/boite-a-outils') ? 'page' : undefined}>Boîte à outils</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <div class="cols">
+          <div>
+            <strong>{SITE.name}</strong> — {SITE.tagline}<br />
+            Certains liens sont affiliés : <a href="/mention-affiliation/">en savoir plus</a>.
+          </div>
+          <ul>
+            <li><a href="/a-propos/">À propos et méthode de test</a></li>
+            <li><a href="/mention-affiliation/">Mention d'affiliation</a></li>
+            <li><a href="/mentions-legales/">Mentions légales</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../data/site.js';
+// À COMPLÉTER avant la mise en ligne publique : identité de l'éditeur.
+// Voir la note dans README.md.
+---
+<Base title="Mentions légales" description="Mentions légales et politique de confidentialité d'Outilpedia." noindex>
+  <div class="wrap read prose">
+    <p class="breadcrumb"><a href="/">Accueil</a> › Mentions légales</p>
+    <h1>Mentions légales</h1>
+
+    <h2>Éditeur du site</h2>
+    <p>[À compléter : nom ou raison sociale de l'éditeur, adresse, numéro d'immatriculation le cas échéant.]</p>
+    <p>Contact : <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a></p>
+
+    <h2>Hébergement</h2>
+    <p>Le site est hébergé par Cloudflare, Inc. (service Cloudflare Pages), 101 Townsend Street, San Francisco, CA 94107, États-Unis.</p>
+
+    <h2>Propriété intellectuelle</h2>
+    <p>Les textes et contenus originaux d'Outilpedia sont protégés. Les marques et logos cités appartiennent à leurs propriétaires respectifs et sont mentionnés à titre d'information.</p>
+
+    <h2>Données personnelles</h2>
+    <p>Outilpedia ne demande aucun compte et ne collecte pas de données personnelles via des formulaires. Lorsque vous cliquez sur un lien affilié, le site partenaire peut déposer un cookie pour attribuer la vente ; ce cookie relève de la politique de confidentialité de ce partenaire.</p>
+    <p>Pour toute question sur vos données, écrivez à <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>.</p>
+  </div>
+</Base>

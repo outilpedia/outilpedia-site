@@ -1,0 +1,31 @@
+---
+// Mise en page des articles écrits en Markdown dans src/pages/articles/.
+// Champs attendus dans l'en-tête : title, description, category (slug), date (AAAA-MM-JJ), updated (facultatif).
+import Base from './Base.astro';
+import { getCategory } from '../data/site.js';
+
+const { frontmatter } = Astro.props;
+const cat = getCategory(frontmatter.category);
+const fmt = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });
+---
+<Base title={frontmatter.title} description={frontmatter.description}>
+  <div class="wrap read">
+    <p class="breadcrumb">
+      <a href="/">Accueil</a>
+      {cat && <> › <a href={`/categorie/${cat.slug}/`}>{cat.name}</a></>}
+    </p>
+    <article class="prose">
+      <h1>{frontmatter.title}</h1>
+      <p class="article-meta">
+        Par la rédaction Outilpedia
+        {frontmatter.date && <> · publié le {fmt(frontmatter.date)}</>}
+        {frontmatter.updated && <> · mis à jour le {fmt(frontmatter.updated)}</>}
+      </p>
+      <p class="disclosure">
+        Cet article contient des liens affiliés : si vous achetez via ces liens, nous touchons une commission, sans surcoût pour vous.
+        Cela ne change pas nos avis. <a href="/mention-affiliation/">Comment nous travaillons</a>.
+      </p>
+      <slot />
+    </article>
+  </div>
+</Base>

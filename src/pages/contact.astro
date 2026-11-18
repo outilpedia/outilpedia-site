@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import { SITE } from '../data/site.js';
+---
+<Base title="Contact" description="Contacter la rédaction Outilpedia.">
+  <div class="wrap read prose">
+    <p class="breadcrumb"><a href="/">Accueil</a> › Contact</p>
+    <h1>Contact</h1>
+    <p>Une question sur un outil, une erreur à signaler, une proposition de partenariat ? Écrivez à la rédaction :</p>
+    <p><a class="btn" href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a></p>
+    <p>Nous répondons en général sous quelques jours. Nous ne publions pas d'articles sponsorisés déguisés : un éditeur ne peut pas acheter un avis positif.</p>
+  </div>
+</Base>
