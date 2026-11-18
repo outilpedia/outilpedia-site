@@ -2,7 +2,7 @@
 
 Site de tests et comparatifs d'outils pour créer et gagner en ligne : https://outilpedia.com
 
-Site statique Astro, hébergé sur Cloudflare Pages. Chaque modification poussée sur `main` est publiée automatiquement.
+Site statique Astro, hébergé sur Cloudflare Workers (static assets, configuration dans `wrangler.jsonc`). Chaque modification poussée sur `main` est publiée automatiquement.
 
 ## Ajouter un article
 
@@ -44,4 +44,4 @@ npm run dev     # aperçu local
 npm run build   # génère le site dans dist/
 ```
 
-Réglages Cloudflare Pages : framework « Astro », commande de build `npm run build`, dossier de sortie `dist`.
+Réglages Cloudflare (Workers Builds) : commande de build `npm run build`, commande de déploiement `npx wrangler deploy`.

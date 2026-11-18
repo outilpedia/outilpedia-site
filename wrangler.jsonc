@@ -1,0 +1,9 @@
+{
+  // Site statique Outilpedia servi par Cloudflare Workers (static assets).
+  "name": "outilpedia",
+  "compatibility_date": "2026-11-18",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}
