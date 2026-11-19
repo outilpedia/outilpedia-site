@@ -92,7 +92,7 @@ Pictory propose un **essai gratuit** ; l'offre Starter démarre autour de **25 $
 
 Si vous voulez aller encore plus vite, **InVideo AI** génère une vidéo entière, voix comprise, à partir d'une simple consigne, sans script. C'est plus rapide, mais moins personnalisable que Pictory. Son offre Plus démarre à **20 $/mois**.
 
-Lequel choisir ? On les compare sur le même sujet dans un prochain article.
+Lequel choisir ? On les compare en détail ici : [InVideo AI ou Pictory : lequel choisir ?](/articles/invideo-ou-pictory/)
 
 ## Étape 5 : la miniature
 
