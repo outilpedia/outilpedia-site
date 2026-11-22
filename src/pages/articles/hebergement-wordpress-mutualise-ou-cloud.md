@@ -32,7 +32,7 @@ Vous voulez lancer un site **WordPress** (blog, site d'affiliation, boutique Woo
 
 ## Le mutualisé : parfait pour démarrer
 
-Chez Hostinger, par exemple, <cite index="76-1">les packs sont payés d'avance, et le tarif mensuel correspond au prix total du pack divisé par le nombre de mois inclus. Les offres d'entrée affichent environ 3 à 4 € par mois.
+Chez Hostinger, par exemple, les packs sont payés d'avance, et le tarif mensuel correspond au prix total du pack divisé par le nombre de mois inclus. Les offres d'entrée affichent environ 3 à 4 € par mois.
 
 **Ses points forts :**
 
@@ -43,7 +43,7 @@ Chez Hostinger, par exemple, <cite index="76-1">les packs sont payés d'avance, 
 **Ses points faibles :**
 
 - le petit prix suppose un engagement de plusieurs années ;
-- <cite index="81-1">le renouvellement se fait à un tarif bien plus élevé : par exemple 9,99 € par mois pour l'offre Premium ;
+- le renouvellement se fait à un tarif bien plus élevé : par exemple 9,99 € par mois pour l'offre Premium ;
 - les performances peuvent baisser quand le site reçoit beaucoup de visites.
 
 <p><a class="btn" href="https://www.hostinger.com/fr" rel="nofollow" target="_blank">Voir les offres Hostinger →</a></p>
@@ -56,9 +56,9 @@ Cloudways ne possède pas ses serveurs : il loue de la puissance chez de grands 
 
 - des performances nettement meilleures, car les ressources sont à vous ;
 - autant de sites WordPress que vous voulez sur le même serveur ;
-- <cite index="70-1">pas de contrat annuel, pas de hausse au renouvellement ;
-- <cite index="69-1">une facturation à l'heure : un serveur supprimé arrête immédiatement d'être facturé ;
-- <cite index="59-1">un essai gratuit de 3 jours, sans carte bancaire.
+- pas de contrat annuel, pas de hausse au renouvellement ;
+- une facturation à l'heure : un serveur supprimé arrête immédiatement d'être facturé ;
+- un essai gratuit de 3 jours, sans carte bancaire.
 
 **Ses points faibles :**
 
