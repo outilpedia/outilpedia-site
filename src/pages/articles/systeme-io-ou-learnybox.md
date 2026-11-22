@@ -21,8 +21,8 @@ Nous utilisons Systeme.io. LearnyBox, nous l'avons étudié en détail à partir
 | Critère | Systeme.io | LearnyBox |
 |---|---|---|
 | Origine | France | France |
-| Offre gratuite | Oui (2 000 contacts, 3 tunnels, 1 formation) | Essai gratuit |
-| Prix de départ | 17 €/mois | 39 €/mois HT (offre Launch) |
+| Offre gratuite | Oui (2 000 contacts, 3 tunnels, 1 formation, ventes illimitées) | Oui, limitée (1 formation, 20 apprenants, 1 000 € de ventes) |
+| Premier palier payant | 17 €/mois | 39 €/mois HT (offre Launch, ventes illimitées) |
 | Offres supérieures | 47 € et 97 €/mois | 89 € et 149 €/mois HT |
 | Commission sur les ventes | 0 % | Selon l'offre et le moyen de paiement choisi |
 | Tunnels de vente | Oui | Oui |
@@ -33,7 +33,7 @@ Nous utilisons Systeme.io. LearnyBox, nous l'avons étudié en détail à partir
 | Prise en main | Demande du temps | Riche, donc demande aussi du temps |
 | Idéal pour | Débutants, petits budgets, produits numériques | Formateurs établis, organismes de formation, académies |
 
-*Prix vérifiés le 21 novembre 2026 sur les sites officiels.*
+*Prix vérifiés le 22 novembre 2026 sur les sites officiels.*
 
 ## Systeme.io : le meilleur rapport qualité-prix pour démarrer
 
@@ -64,8 +64,8 @@ LearnyBox se positionne sur la **formation en ligne haut de gamme** : académie 
 
 **Ses points faibles :**
 
-- pas d'offre gratuite permanente, seulement un essai ;
-- un prix de départ plus élevé (39 € HT par mois minimum) ;
+- une offre gratuite, mais plafonnée à 1 000 € de ventes et 20 apprenants ;
+- pour vendre sans plafond, il faut au moins 39 € HT par mois ;
 - beaucoup de fonctions, donc un temps d'apprentissage à prévoir.
 
 **Choisissez LearnyBox si :**
@@ -80,7 +80,7 @@ LearnyBox se positionne sur la **formation en ligne haut de gamme** : académie 
 
 - **Vous débutez, avec peu ou pas de budget :** Systeme.io, sans hésiter. Vous démarrez gratuitement et vous ne payez que lorsque vous grandissez.
 - **Vous vivez déjà de vos formations ou dirigez un organisme de formation :** LearnyBox, pour son académie plus complète et ses outils de gestion.
-- **Vous hésitez encore :** commencez avec l'offre gratuite de Systeme.io. Si vous atteignez ses limites côté formation, testez LearnyBox avec son essai gratuit avant de migrer.
+- **Vous hésitez encore :** commencez avec l'offre gratuite de Systeme.io. Si vous atteignez ses limites côté formation, testez LearnyBox avec son offre gratuite avant de migrer.
 
 ## Pour aller plus loin
 
