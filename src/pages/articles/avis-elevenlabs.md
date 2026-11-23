@@ -82,3 +82,4 @@ Si vous créez des vidéos sans montrer votre visage, ou si vous n'aimez pas vot
 
 - [Créer une chaîne YouTube sans montrer son visage : les 4 outils IA qu'on utilise](/articles/creer-chaine-youtube-faceless-ia/)
 - [InVideo AI ou Pictory : lequel choisir ?](/articles/invideo-ou-pictory/)
+- [Créer sa voix off avec ElevenLabs : le tutoriel pas à pas](/articles/tutoriel-voix-off-elevenlabs/)

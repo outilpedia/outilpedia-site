@@ -93,3 +93,4 @@ Avec InVideo AI, on écrit par exemple : « Une vidéo de 5 minutes sur les 5 fa
 - Notre guide complet : [Créer une chaîne YouTube sans montrer son visage : les 4 outils IA qu'on utilise](/articles/creer-chaine-youtube-faceless-ia/)
 - La voix off qui va avec : <a href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">ElevenLabs (version gratuite pour tester)</a>
 - Trouver des sujets qui marchent : <a href="https://vidiq.com/outilpedia" rel="sponsored nofollow" target="_blank">vidIQ (gratuit pour commencer)</a>
+- [Avis InVideo AI : créer une vidéo complète avec une seule consigne](/articles/avis-invideo-ai/)
