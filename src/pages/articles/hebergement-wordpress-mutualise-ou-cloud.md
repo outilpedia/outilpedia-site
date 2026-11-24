@@ -66,7 +66,7 @@ Cloudways ne possède pas ses serveurs : il loue de la puissance chez de grands 
 - le nom de domaine et les boîtes e-mail sont à prévoir à part ;
 - une interface plus technique au premier abord.
 
-<p><a class="btn" href="https://www.cloudways.com/fr/" rel="nofollow" target="_blank">Tester Cloudways gratuitement (3 jours) →</a></p>
+<p><a class="btn" href="https://cloudways.pxf.io/GbWQoB" rel="sponsored nofollow" target="_blank">Tester Cloudways gratuitement (3 jours) →</a></p>
 
 ## Alors, lequel choisir ?
 
@@ -83,6 +83,8 @@ Cloudways ne possède pas ses serveurs : il loue de la puissance chez de grands 
 4. **Le support** : disponible 24 h/24 et, si possible, en français.
 
 ## À lire aussi
+
+- [Avis Cloudways : l'hébergement cloud géré pour WordPress vaut-il son prix ?](/articles/avis-cloudways/)
 
 - [Quel est le meilleur créateur de site internet ?](/articles/meilleur-createur-site-internet/)
 - [Shopify ou Wix pour une boutique en ligne ?](/articles/shopify-ou-wix-boutique-en-ligne/)
