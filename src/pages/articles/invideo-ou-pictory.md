@@ -52,7 +52,7 @@ Avec Pictory, on colle le script et l'outil le découpe en **scènes, une par ph
 - Les crédits (voix premium, images IA) s'ajoutent au prix de l'abonnement si vous en abusez.
 - Prix en hausse depuis novembre 2026 : l'offre Starter est passée à 29 $ au mois.
 
-<p><a class="btn" href="https://pictory.ai" rel="nofollow" target="_blank">Tester Pictory gratuitement →</a></p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Tester Pictory gratuitement →</a></p>
 
 ## InVideo AI : la vidéo entière en une consigne
 

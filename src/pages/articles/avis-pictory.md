@@ -19,7 +19,7 @@ draft: false
 | **Prix** | Essai gratuit de 14 jours, puis 29 $ par mois (25 $ en annuel) |
 | **Notre note** | 8,5/10 |
 
-<p><a class="btn" href="https://pictory.ai" rel="nofollow" target="_blank">Essayer Pictory gratuitement →</a></p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Essayer Pictory gratuitement →</a></p>
 
 ## Comment fonctionne Pictory ?
 
@@ -79,7 +79,7 @@ Le comparatif complet : [InVideo AI ou Pictory : lequel choisir ?](/articles/inv
 
 Pictory reste **l'un des meilleurs outils pour transformer un texte en vidéo**, surtout pour une chaîne YouTube sans visage. Sa banque d'images, ses effets simples et la synchronisation de la voix font gagner des heures chaque semaine. Sa hausse de prix récente le rend moins accessible : profitez de l'essai gratuit de 14 jours pour vérifier qu'il colle à votre façon de travailler, et prenez l'abonnement annuel si vous l'adoptez.
 
-<p><a class="btn" href="https://pictory.ai" rel="nofollow" target="_blank">Tester Pictory pendant 14 jours →</a></p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Tester Pictory pendant 14 jours →</a></p>
 
 ## À lire aussi
 

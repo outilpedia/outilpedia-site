@@ -50,7 +50,7 @@ Deux approches :
 - **Pictory** part de **votre script** : il le découpe en scènes, propose des images et des vidéos pour chacune, synchronise votre voix off et ajoute les sous-titres. C'est notre outil de montage au quotidien. Essai gratuit de 14 jours, puis 29 $ par mois (25 $ en annuel).
 - **InVideo AI** part d'une **simple consigne** : il écrit le script, choisit les images, ajoute la voix et monte le tout. Plus rapide, mais le résultat est plus générique si on ne le retravaille pas. Offre gratuite avec filigrane, puis environ 20 à 25 $ par mois.
 
-<p><a class="btn" href="https://pictory.ai" rel="nofollow" target="_blank">Essayer Pictory →</a></p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Essayer Pictory →</a></p>
 
 Nos avis : [Avis Pictory](/articles/avis-pictory/), [Avis InVideo AI](/articles/avis-invideo-ai/) et le duel [InVideo AI ou Pictory](/articles/invideo-ou-pictory/).
 

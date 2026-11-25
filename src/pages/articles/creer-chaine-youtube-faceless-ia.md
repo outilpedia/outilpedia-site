@@ -18,7 +18,7 @@ Chez Outilpedia, on produit nos vidéos de cette façon. Voici la méthode compl
 | Trouver des sujets | <a href="https://vidiq.com/outilpedia" rel="sponsored nofollow" target="_blank">vidIQ</a> | Très pratique, mais demande un peu de temps pour être maîtrisé | Gratuit, puis Boost à 19 $/mois |
 | Écrire le script | ChatGPT, Claude… | Bon pour un premier plan, à réécrire avec vos mots | Gratuit |
 | Voix off | <a href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">ElevenLabs</a> | Rien à redire : simple, et des milliers de voix | Gratuit pour tester, 6 $/mois pour un usage commercial |
-| Montage | <a href="https://pictory.ai" rel="nofollow" target="_blank">Pictory</a> | Vraiment bien, énorme banque d'images | Essai gratuit, puis environ 25 $/mois (en annuel) |
+| Montage | <a href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Pictory</a> | Vraiment bien, énorme banque d'images | Essai gratuit, puis environ 25 $/mois (en annuel) |
 | Montage express | <a href="https://invideo.io" rel="nofollow" target="_blank">InVideo AI</a> | Une vidéo entière à partir d'une simple consigne | 20 $/mois (offre Plus) |
 | Miniature | Meta AI ou Ideogram + Canva | Gratuit et suffisant | Gratuit |
 
@@ -86,7 +86,7 @@ Un montage qui prenait une journée peut se faire en une heure environ. Pour un 
 
 Pictory propose un **essai gratuit** ; l'offre Starter démarre autour de **25 $/mois en paiement annuel** (29 $ au mois).
 
-<p><a class="btn" href="https://pictory.ai" rel="nofollow" target="_blank">Tester Pictory gratuitement →</a></p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Tester Pictory gratuitement →</a></p>
 
 ## L'alternative : InVideo AI
 
@@ -123,6 +123,6 @@ Oui, on peut créer une chaîne YouTube de qualité **sans jamais apparaître à
 
 1. <a href="https://vidiq.com/outilpedia" rel="sponsored nofollow" target="_blank">vidIQ</a> pour trouver vos 10 premiers sujets ;
 2. <a href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">ElevenLabs</a> pour trouver la voix de votre chaîne ;
-3. <a href="https://pictory.ai" rel="nofollow" target="_blank">Pictory</a> pour monter votre première vidéo.
+3. <a href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Pictory</a> pour monter votre première vidéo.
 
 *Prix vérifiés le 19 novembre 2026 sur les sites officiels des éditeurs.*
