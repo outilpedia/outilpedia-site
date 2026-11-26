@@ -89,3 +89,4 @@ Cloudways est **le bon choix dès que votre site devient sérieux** : plus rapid
 - [Hébergement WordPress : mutualisé ou cloud géré, lequel choisir ?](/articles/hebergement-wordpress-mutualise-ou-cloud/)
 - [Quel est le meilleur créateur de site internet ?](/articles/meilleur-createur-site-internet/)
 - [SEO pour débutant : attirer des visiteurs depuis Google](/articles/seo-debutant-attirer-visiteurs-google/)
+- [Serveur cloud pour WordPress : lequel choisir ?](/articles/serveur-cloud-wordpress/)

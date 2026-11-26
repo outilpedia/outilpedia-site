@@ -86,3 +86,4 @@ LearnyBox se positionne sur la **formation en ligne haut de gamme** : académie 
 
 - [Avis Systeme.io : l'outil tout-en-un gratuit vaut-il le coup ?](/articles/avis-systeme-io/)
 - [Créer une chaîne YouTube sans montrer son visage](/articles/creer-chaine-youtube-faceless-ia/) : une bonne façon d'attirer des élèves vers votre formation.
+- [Meilleure plateforme pour vendre ses formations en ligne](/articles/meilleure-plateforme-vendre-formation-en-ligne/)

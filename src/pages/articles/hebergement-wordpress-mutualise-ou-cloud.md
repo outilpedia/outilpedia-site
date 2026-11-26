@@ -89,3 +89,4 @@ Cloudways ne possède pas ses serveurs : il loue de la puissance chez de grands 
 - [Quel est le meilleur créateur de site internet ?](/articles/meilleur-createur-site-internet/)
 - [Shopify ou Wix pour une boutique en ligne ?](/articles/shopify-ou-wix-boutique-en-ligne/)
 - [SEO pour débutant : attirer des visiteurs depuis Google](/articles/seo-debutant-attirer-visiteurs-google/)
+- [Serveur cloud pour WordPress : lequel choisir ?](/articles/serveur-cloud-wordpress/)
