@@ -9,6 +9,11 @@ draft: false
 
 Votre site WordPress devient lent, ou vous voulez partir sur de bonnes bases dès le départ ? On vous conseille un **serveur cloud**. Mais derrière ce mot, il y a trois choses très différentes, avec des prix allant de 6 $ à plus de 35 $ par mois. Voici comment s'y retrouver et choisir le bon, sans être informaticien.
 
+<div class="note promo" data-end="2026-12-01T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Cloudways</strong> : <strong>-80 % pendant 2 mois</strong> sur tous les serveurs et options, avec le code <strong>BFCM802</strong>, plus migrations gratuites illimitées. Jusqu'au lundi 30 novembre 2026.</p>
+<p><a class="btn" href="https://cloudways.pxf.io/GbWQoB" rel="sponsored nofollow" target="_blank">Profiter de l'offre Cloudways →</a></p>
+</div>
+
 ## Mutualisé, cloud « dédié », cloud géré : de quoi parle-t-on ?
 
 - **L'hébergement mutualisé** : votre site partage un serveur avec des centaines d'autres. Pas cher, mais les ressources sont partagées. On le compare en détail ici : [mutualisé ou cloud géré](/articles/hebergement-wordpress-mutualise-ou-cloud/).

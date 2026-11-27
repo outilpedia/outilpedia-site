@@ -28,4 +28,10 @@ const fmt = (d) => new Date(d).toLocaleDateString('fr-FR', { day: 'numeric', mon
       <slot />
     </article>
   </div>
+  <script is:inline>
+    // Masque les encadrés d'offres limitées (class="note promo" data-end="AAAA-MM-JJTHH:MM:SSZ") une fois l'offre terminée.
+    document.querySelectorAll('.promo[data-end]').forEach(function (el) {
+      if (Date.now() > Date.parse(el.dataset.end)) el.remove();
+    });
+  </script>
 </Base>

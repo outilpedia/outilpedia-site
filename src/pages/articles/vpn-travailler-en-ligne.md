@@ -9,6 +9,11 @@ draft: false
 
 Vous gérez une chaîne YouTube, une boutique, des formations ou des clients depuis votre ordinateur ? Vos comptes en ligne sont votre outil de travail. Un **VPN** fait partie des protections simples qui évitent les mauvaises surprises. Il ne fait pas tout, et on vous dit aussi ce qu'il ne fait pas.
 
+<div class="note promo" data-end="2026-12-10T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>NordVPN</strong> : <strong>jusqu'à -78 %</strong> sur les abonnements de 2 ans, <strong>+ 3 mois offerts</strong>, garantie satisfait ou remboursé 30 jours. Jusqu'au 9 décembre 2026.</p>
+<p><a class="btn" href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=95927" rel="sponsored nofollow" target="_blank">Profiter de l'offre NordVPN →</a></p>
+</div>
+
 ## Un VPN, c'est quoi, en une phrase ?
 
 Un VPN crée un **tunnel chiffré** entre votre appareil et Internet. Le réseau sur lequel vous êtes (Wi-Fi d'un café, d'un hôtel, d'un espace de coworking) ne voit plus ce que vous faites, et les sites voient l'adresse du serveur VPN au lieu de la vôtre.
@@ -43,7 +48,7 @@ Il existe des dizaines de VPN. **NordVPN** est l'un des plus connus, et pour de 
 | Serveurs | Plusieurs milliers, dans plus d'une centaine de pays |
 | Appareils protégés | Jusqu'à 10 en même temps |
 | Applications | Windows, Mac, Android, iPhone, Linux, extensions de navigateur |
-| Formules en France | Basique (VPN seul), Plus (ajoute un bloqueur de publicités et de pistes, et le gestionnaire de mots de passe NordPass), Ultime |
+| Formules | Basic (VPN et protection contre les arnaques), Complete (ajoute un antivirus nouvelle génération, un bloqueur de publicités et le gestionnaire de mots de passe NordPass), et une formule supérieure selon les pays |
 | Garantie | Satisfait ou remboursé 30 jours |
 | Prix indicatif | Environ 3 à 5 € par mois en abonnement de 2 ans selon la formule, autour de 12 à 15 € en mensuel sans engagement |
 
@@ -66,8 +71,8 @@ Il existe des dizaines de VPN. **NordVPN** est l'un des plus connus, et pour de 
 
 ## Quelle formule choisir ?
 
-- **Vous voulez juste sécuriser vos connexions :** la formule Basique suffit.
-- **Vous voulez aussi un gestionnaire de mots de passe et moins de publicités :** la formule Plus, pour quelques euros de plus sur 2 ans. C'est souvent le meilleur rapport qualité-prix, car un gestionnaire de mots de passe protège encore mieux vos comptes que le VPN lui-même.
+- **Vous voulez juste sécuriser vos connexions :** la formule Basic suffit.
+- **Vous voulez aussi un gestionnaire de mots de passe et moins de publicités :** la formule Complete, pour environ 1 € de plus par mois sur 2 ans. C'est souvent le meilleur rapport qualité-prix, car un gestionnaire de mots de passe protège encore mieux vos comptes que le VPN lui-même.
 - **Durée :** l'abonnement de 2 ans est de loin le moins cher par mois. Avec la garantie de 30 jours, vous pouvez annuler si cela ne vous convient pas.
 
 ## Mettre en place un VPN en 5 minutes

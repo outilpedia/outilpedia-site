@@ -9,6 +9,16 @@ draft: false
 
 Vous voulez lancer une chaîne YouTube, mais vous ne voulez pas montrer votre visage, vous n'aimez pas votre voix, et le montage vous fait peur ? Bonne nouvelle : ces trois obstacles se contournent aujourd'hui avec quelques outils d'intelligence artificielle. C'est ce qu'on appelle une **chaîne « faceless »**, une chaîne sans visage.
 
+<div class="note promo" data-end="2026-12-03T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Pictory</strong> : <strong>jusqu'à -70 %</strong> sur les abonnements annuels et <strong>-50 %</strong> sur les mensuels, réduction appliquée automatiquement (sans code). Jusqu'au 2 décembre 2026.</p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Profiter de l'offre Pictory →</a></p>
+</div>
+
+<div class="note promo" data-end="2026-12-02T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>ElevenLabs</strong> : <strong>-55 %</strong> sur l'abonnement annuel Creator (99 $ pour toute l'année) et sur l'annuel Pro pour les nouveaux abonnés. Jusqu'au 1er décembre 2026.</p>
+<p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Profiter de l'offre ElevenLabs →</a></p>
+</div>
+
 Chez Outilpedia, on produit nos vidéos de cette façon. Voici la méthode complète, étape par étape, avec les outils qu'on utilise vraiment, ce qu'ils font bien, ce qui coince, et ce que ça coûte.
 
 ## En bref : le kit d'une chaîne sans visage

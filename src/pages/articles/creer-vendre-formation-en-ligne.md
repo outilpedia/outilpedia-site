@@ -9,6 +9,11 @@ draft: false
 
 Vendre une formation en ligne est l'un des moyens les plus accessibles de gagner de l'argent sur internet : vous créez le contenu une fois, et vous pouvez le vendre des centaines de fois. Mais entre le choix du sujet, l'enregistrement, la plateforme et la vente, beaucoup de débutants se perdent. Voici la méthode, étape par étape, avec les outils adaptés à chaque budget.
 
+<div class="note promo" data-end="2026-12-02T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>ElevenLabs</strong> : <strong>-55 %</strong> sur l'abonnement annuel Creator (99 $ pour toute l'année) et sur l'annuel Pro pour les nouveaux abonnés. Jusqu'au 1er décembre 2026.</p>
+<p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Profiter de l'offre ElevenLabs →</a></p>
+</div>
+
 ## Étape 1 : choisir un sujet qui se vend
 
 Une formation qui se vend résout **un problème précis** pour **un public précis**. « Apprendre Excel » est trop vague ; « Créer son budget mensuel sur Excel en une soirée » est vendable.

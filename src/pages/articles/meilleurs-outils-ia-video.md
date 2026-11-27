@@ -9,6 +9,16 @@ draft: false
 
 Créer une vidéo de qualité demandait autrefois une caméra, un micro, des heures de montage et parfois toute une équipe. En 2026, **l'intelligence artificielle** permet de tout faire seul, sans même apparaître à l'écran. Voici les meilleurs outils IA pour chaque étape de la création d'une vidéo, ceux que nous utilisons et ceux que nous recommandons.
 
+<div class="note promo" data-end="2026-12-03T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Pictory</strong> : <strong>jusqu'à -70 %</strong> sur les abonnements annuels et <strong>-50 %</strong> sur les mensuels, réduction appliquée automatiquement (sans code). Jusqu'au 2 décembre 2026.</p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Profiter de l'offre Pictory →</a></p>
+</div>
+
+<div class="note promo" data-end="2026-12-02T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>ElevenLabs</strong> : <strong>-55 %</strong> sur l'abonnement annuel Creator (99 $ pour toute l'année) et sur l'annuel Pro pour les nouveaux abonnés. Jusqu'au 1er décembre 2026.</p>
+<p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Profiter de l'offre ElevenLabs →</a></p>
+</div>
+
 ## La chaîne de production d'une vidéo IA
 
 Une vidéo se fabrique en cinq étapes, et chacune a son outil :

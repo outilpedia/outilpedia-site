@@ -9,6 +9,11 @@ draft: false
 
 C'est la question que tout le monde se pose avant de créer son site : **Wix ou WordPress** ? Les deux sont excellents, mais ils ne s'adressent pas du tout au même profil. Voici comment choisir, sans jargon.
 
+<div class="note promo" data-end="2026-12-01T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Cloudways</strong> : <strong>-80 % pendant 2 mois</strong> sur tous les serveurs et options, avec le code <strong>BFCM802</strong>, plus migrations gratuites illimitées. Jusqu'au lundi 30 novembre 2026.</p>
+<p><a class="btn" href="https://cloudways.pxf.io/GbWQoB" rel="sponsored nofollow" target="_blank">Profiter de l'offre Cloudways →</a></p>
+</div>
+
 ## La différence en une phrase
 
 - **Wix**, c'est un **tout-compris** : vous louez un site prêt à l'emploi, hébergement et sécurité inclus, et vous le construisez en glissant des blocs.

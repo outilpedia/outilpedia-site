@@ -9,6 +9,11 @@ draft: false
 
 Une bonne **voix off IA** peut faire toute la différence pour une vidéo YouTube, une formation ou une publicité. Mais en français, toutes les voix ne se valent pas : certaines sonnent encore comme un robot, d'autres trébuchent sur les liaisons et les noms propres. Voici notre comparatif pour choisir la bonne, gratuite ou payante.
 
+<div class="note promo" data-end="2026-12-02T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>ElevenLabs</strong> : <strong>-55 %</strong> sur l'abonnement annuel Creator (99 $ pour toute l'année) et sur l'annuel Pro pour les nouveaux abonnés. Jusqu'au 1er décembre 2026.</p>
+<p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Profiter de l'offre ElevenLabs →</a></p>
+</div>
+
 ## Notre classement en bref
 
 | Outil | Qualité en français | Offre gratuite | Prix de départ | Usage commercial | Idéal pour |

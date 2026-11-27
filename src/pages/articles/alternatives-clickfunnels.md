@@ -9,6 +9,11 @@ draft: false
 
 **ClickFunnels** est l'outil qui a popularisé les tunnels de vente. Mais il a un gros défaut pour qui démarre : son prix. Bonne nouvelle, il existe aujourd'hui des alternatives qui font l'essentiel pour beaucoup moins cher, et même gratuitement. Voici notre sélection.
 
+<div class="note promo" data-end="2026-12-01T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Cloudways</strong> : <strong>-80 % pendant 2 mois</strong> sur tous les serveurs et options, avec le code <strong>BFCM802</strong>, plus migrations gratuites illimitées. Jusqu'au lundi 30 novembre 2026.</p>
+<p><a class="btn" href="https://cloudways.pxf.io/GbWQoB" rel="sponsored nofollow" target="_blank">Profiter de l'offre Cloudways →</a></p>
+</div>
+
 ## Combien coûte ClickFunnels en 2026 ?
 
 | Offre ClickFunnels | Prix au mois | Prix en annuel (par mois) |

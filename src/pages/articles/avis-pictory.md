@@ -9,6 +9,11 @@ draft: false
 
 **Pictory** est l'outil que nous utilisons pour monter nos vidéos YouTube sans visage. On colle un script, et l'outil fabrique une vidéo complète : scènes, images, voix off, sous-titres et musique. Après des dizaines de vidéos, voici notre avis honnête, avec ses forces et ses limites.
 
+<div class="note promo" data-end="2026-12-03T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Pictory</strong> : <strong>jusqu'à -70 %</strong> sur les abonnements annuels et <strong>-50 %</strong> sur les mensuels, réduction appliquée automatiquement (sans code). Jusqu'au 2 décembre 2026.</p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Profiter de l'offre Pictory →</a></p>
+</div>
+
 ## Notre avis en bref
 
 | | |

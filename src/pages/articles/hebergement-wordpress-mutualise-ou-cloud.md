@@ -9,6 +9,11 @@ draft: false
 
 Vous voulez lancer un site **WordPress** (blog, site d'affiliation, boutique WooCommerce) et vous tombez sur deux familles d'hébergement : le **mutualisé**, très bon marché, et le **cloud géré**, plus cher mais plus puissant. Voici comment choisir, sans jargon.
 
+<div class="note promo" data-end="2026-12-01T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Cloudways</strong> : <strong>-80 % pendant 2 mois</strong> sur tous les serveurs et options, avec le code <strong>BFCM802</strong>, plus migrations gratuites illimitées. Jusqu'au lundi 30 novembre 2026.</p>
+<p><a class="btn" href="https://cloudways.pxf.io/GbWQoB" rel="sponsored nofollow" target="_blank">Profiter de l'offre Cloudways →</a></p>
+</div>
+
 ## La différence en une image
 
 - **Hébergement mutualisé** : votre site partage un serveur avec des centaines d'autres. C'est comme une colocation : pas cher, tout est prêt, mais si un voisin fait la fête, vous l'entendez.

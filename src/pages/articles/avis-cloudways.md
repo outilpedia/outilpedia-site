@@ -9,6 +9,11 @@ draft: false
 
 Votre site WordPress commence à ralentir sur un hébergement à 3 € par mois ? Vous gérez plusieurs sites ou une boutique WooCommerce ? C'est exactement le moment où l'on entend parler de **Cloudways**. Voici notre avis pour savoir s'il vaut vraiment son prix.
 
+<div class="note promo" data-end="2026-12-01T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Cloudways</strong> : <strong>-80 % pendant 2 mois</strong> sur tous les serveurs et options, avec le code <strong>BFCM802</strong>, plus migrations gratuites illimitées. Jusqu'au lundi 30 novembre 2026.</p>
+<p><a class="btn" href="https://cloudways.pxf.io/GbWQoB" rel="sponsored nofollow" target="_blank">Profiter de l'offre Cloudways →</a></p>
+</div>
+
 Précision sur notre méthode : cet avis s'appuie sur l'offre officielle de Cloudways, sa documentation et les retours d'utilisateurs publiés en 2026. On vous le dit pour que vous sachiez d'où vient chaque information.
 
 ## Notre avis en bref

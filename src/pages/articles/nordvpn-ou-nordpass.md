@@ -9,6 +9,11 @@ draft: false
 
 Vous travaillez en ligne (chaîne YouTube, boutique, formations, affiliation) et vous voulez mieux protéger vos comptes ? Vous tombez vite sur deux produits de la même entreprise : **NordVPN** et **NordPass**. Ils n'ont rien à voir l'un avec l'autre, et la question n'est pas tant « lequel » que « lequel en premier ». Voici comment trancher.
 
+<div class="note promo" data-end="2026-12-10T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>NordVPN</strong> : <strong>jusqu'à -78 %</strong> sur les abonnements de 2 ans, <strong>+ 3 mois offerts</strong>, garantie satisfait ou remboursé 30 jours. Jusqu'au 9 décembre 2026.</p>
+<p><a class="btn" href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=95927" rel="sponsored nofollow" target="_blank">Profiter de l'offre NordVPN →</a></p>
+</div>
+
 ## La différence en une phrase
 
 - **NordVPN** protège **vos connexions** : il chiffre ce qui sort de votre appareil, surtout utile sur un Wi-Fi public ou à l'étranger.
@@ -52,23 +57,23 @@ Le VPN devient vraiment utile si vous :
 
 Nous détaillons tout cela ici : [VPN : faut-il en utiliser un quand on travaille en ligne ?](/articles/vpn-travailler-en-ligne/)
 
-## La solution la plus simple : NordVPN Plus, qui inclut NordPass
+## La solution la plus simple : NordVPN Complete, qui inclut NordPass
 
-Bonne nouvelle : vous n'êtes pas obligé de choisir. La formule **NordVPN Plus** comprend le VPN, un bloqueur de publicités et de pistes, **et le gestionnaire de mots de passe NordPass Premium**. Pour quelques euros de plus que le VPN seul sur 2 ans, vous obtenez les deux protections, pour moins cher que si vous les achetiez séparément.
+Bonne nouvelle : vous n'êtes pas obligé de choisir. La formule **NordVPN Complete** comprend le VPN, un antivirus nouvelle génération, un bloqueur de publicités et de pistes, **et le gestionnaire de mots de passe NordPass Premium**. Pour environ 1 € de plus par mois que le VPN seul sur 2 ans, vous obtenez les deux protections, pour moins cher que si vous les achetiez séparément.
 
-<p><a class="btn" href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=95927" rel="sponsored nofollow" target="_blank">Voir la formule NordVPN Plus (VPN + NordPass) →</a></p>
+<p><a class="btn" href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=95927" rel="sponsored nofollow" target="_blank">Voir la formule NordVPN Complete (VPN + NordPass) →</a></p>
 
-*Sur la page de NordVPN, choisissez la formule « Plus ». La garantie satisfait ou remboursé de 30 jours s'applique.*
+*Sur la page de NordVPN, choisissez la formule « Complete » (son nom peut légèrement varier selon votre pays : prenez celle qui inclut NordPass). La garantie satisfait ou remboursé de 30 jours s'applique.*
 
 ## Alors, lequel choisir ?
 
 - **Vous ne prenez qu'un seul outil :** un **gestionnaire de mots de passe** comme NordPass. C'est la protection qui évite le plus de piratages.
-- **Vous travaillez souvent hors de chez vous ou à l'étranger :** prenez les deux, avec la formule **NordVPN Plus**.
+- **Vous travaillez souvent hors de chez vous ou à l'étranger :** prenez les deux, avec la formule **NordVPN Complete**.
 - **Petit budget :** commencez par l'offre gratuite de NordPass et activez la double authentification sur vos comptes importants.
 
 ## Mettre en place les deux en 15 minutes
 
-1. Prenez la formule NordVPN Plus et créez votre compte.
+1. Prenez la formule NordVPN Complete et créez votre compte.
 2. Installez NordVPN sur votre ordinateur et votre téléphone, et activez la coupure d'Internet en cas de déconnexion du VPN (« Kill Switch »).
 3. Installez NordPass et son extension de navigateur, puis importez les mots de passe enregistrés dans votre navigateur.
 4. Changez en priorité les mots de passe de votre e-mail, de votre banque, de YouTube et de vos plateformes de paiement, en laissant NordPass en générer de nouveaux.

@@ -9,6 +9,11 @@ draft: false
 
 Vous voulez une **voix off naturelle** pour vos vidéos, sans enregistrer votre propre voix ? **ElevenLabs** est l'outil que nous utilisons pour nos vidéos. Dans ce tutoriel, on vous montre comment créer votre première voix off de A à Z, et surtout comment éviter le rendu « robot ».
 
+<div class="note promo" data-end="2026-12-02T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>ElevenLabs</strong> : <strong>-55 %</strong> sur l'abonnement annuel Creator (99 $ pour toute l'année) et sur l'annuel Pro pour les nouveaux abonnés. Jusqu'au 1er décembre 2026.</p>
+<p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Profiter de l'offre ElevenLabs →</a></p>
+</div>
+
 <p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Créer un compte ElevenLabs gratuit →</a></p>
 
 ## Avant de commencer : quelle offre choisir ?

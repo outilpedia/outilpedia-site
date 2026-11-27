@@ -9,6 +9,16 @@ draft: false
 
 **InVideo AI** et **Pictory** sont les deux outils les plus utilisés pour créer des vidéos avec l'intelligence artificielle, notamment pour les chaînes YouTube sans visage. Ils promettent la même chose : une vidéo prête à publier sans savoir monter. Mais ils ne fonctionnent pas du tout de la même façon, et le bon choix dépend surtout de **votre manière de travailler**.
 
+<div class="note promo" data-end="2026-12-03T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>Pictory</strong> : <strong>jusqu'à -70 %</strong> sur les abonnements annuels et <strong>-50 %</strong> sur les mensuels, réduction appliquée automatiquement (sans code). Jusqu'au 2 décembre 2026.</p>
+<p><a class="btn" href="https://pictory.ai?fpr=francis-8680e6" rel="sponsored nofollow" target="_blank">Profiter de l'offre Pictory →</a></p>
+</div>
+
+<div class="note promo" data-end="2026-12-02T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>ElevenLabs</strong> : <strong>-55 %</strong> sur l'abonnement annuel Creator (99 $ pour toute l'année) et sur l'annuel Pro pour les nouveaux abonnés. Jusqu'au 1er décembre 2026.</p>
+<p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Profiter de l'offre ElevenLabs →</a></p>
+</div>
+
 On utilise Pictory au quotidien pour nos vidéos. InVideo AI, on l'a étudié en détail à partir de sa documentation et de ses offres officielles ; un test complet en production arrive sur Outilpedia. On vous le précise pour que vous sachiez d'où vient chaque avis.
 
 ## La différence en une phrase

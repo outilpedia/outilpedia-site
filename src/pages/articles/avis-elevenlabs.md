@@ -9,6 +9,11 @@ draft: false
 
 **ElevenLabs** est devenu la référence de la voix de synthèse. YouTubeurs sans visage, créateurs de formations, podcasteurs : beaucoup l'utilisent pour obtenir une voix off naturelle sans jamais enregistrer leur propre voix. On l'utilise pour nos vidéos. Voici notre avis.
 
+<div class="note promo" data-end="2026-12-02T08:00:00Z">
+<p>🔥 <strong>Offre Black Friday</strong> · <strong>ElevenLabs</strong> : <strong>-55 %</strong> sur l'abonnement annuel Creator (99 $ pour toute l'année) et sur l'annuel Pro pour les nouveaux abonnés. Jusqu'au 1er décembre 2026.</p>
+<p><a class="btn" href="https://try.elevenlabs.io/deimrkt38ka3" rel="sponsored nofollow" target="_blank">Profiter de l'offre ElevenLabs →</a></p>
+</div>
+
 ## Notre avis en bref
 
 | | |
